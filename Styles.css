@@ -1,0 +1,18 @@
+.mapNavWrapper {
+  width: 100%;
+  min-width: 300px;
+}
+
+.mapNavButton {
+  height: 5em;
+  margin: 0.15em;
+  width: 5em;
+}
+
+.custom-fa-rotate-45 {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
