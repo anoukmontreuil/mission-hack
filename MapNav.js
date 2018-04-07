@@ -10,7 +10,7 @@ class MapNav extends Component {
 
   render() {
     return (
-      <div className="text-center mapNavWrapper container">
+      <div className="mapNavWrapper container">
         <div className="row">
           <button 
             className="btn btn-danger mapNavButton"
